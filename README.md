@@ -2,8 +2,6 @@
 
 # Arabic Text Summarization Approach based on Transformers
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
 ![Text Summarization](https://www.researchgate.net/profile/Hamzeh-Alabool/publication/337653638/figure/fig1/AS:831661906358275@1575295058441/Text-summarization-techniques-4.png)
 
 >**Abstract** :
@@ -24,4 +22,4 @@ MSA Data.We   use70GB   of   MSA   text(7.1B   tokens)
 Arabic T5 Model 
 https://huggingface.co/marefa-nlp/summarization-arabic-english-news
 
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
