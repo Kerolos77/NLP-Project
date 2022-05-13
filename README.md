@@ -12,6 +12,17 @@ Transfer learning with a unified Transformer frame-work (T5) that converts all l
 
 Due to their remarkable ability to transfer knowl-edge from unlabeled data to downstream tasks, pre-trained Transformer-based language models haveemerged as important components in modern natu-ral language processing (NLP) systems. In partic-ular, the unified framework that converts all text-based language problems into a text-to-text formatpresented through the T5 model is attractive.
 
+## How to use :
+How to Use
+
+1-Install PyTorch
+
+2-Install the following Python packages
+
+$ pip3 install transformers==4.7.0 nltk==3.5 protobuf==3.15.3 sentencepiece==0.1.96
+
+Run this code
+
 ## Provided Data:
 
 If you want to train your model ,you can use this dataset and download 
