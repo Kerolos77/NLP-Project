@@ -1,6 +1,6 @@
 # NLP-Project
 
->Arabic Text Summarization Approach based on Transformers
+>**Arabic Text Summarization Approach based on Transformers**
 
 **Abstract** :
 Transfer learning with a unified Transformer frame-work (T5) that converts all language problems intoa text-to-text format has recently been proposedas  a  simple,  yet  effective,  transfer  learning  ap-proach.   Although a multilingual version of theT5  model  (mT5)  has  been  introduced,  it  is  notclear how well it can fare on non-English tasksinvolving diverse data.  To investigate this ques-tion, we apply mT5 on a language with a wide va-riety of dialects–Arabic.
