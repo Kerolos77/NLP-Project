@@ -4,7 +4,7 @@
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![Text Summarization](https://www.researchgate.net/figure/Text-summarization-techniques-4_fig1_337653638)
+![Text Summarization](https://www.researchgate.net/profile/Hamzeh-Alabool/publication/337653638/figure/fig1/AS:831661906358275@1575295058441/Text-summarization-techniques-4.png)
 
 >**Abstract** :
 
