@@ -28,12 +28,12 @@ https://huggingface.co/marefa-nlp/summarization-arabic-english-news
 
 | Name  | Email |
 | ------------- | ------------- |
-|  Mo'az Ismail ||
-|  Karim Sayed  | ### karim_20180428@fci.helwan.edu.eg |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Mo'az Ismail | moazesmail882@gmail.com |
+| Karim Sayed  | karim_20180428@fci.helwan.edu.eg |
+| shehap sherif | shehap.poop@gmail.com |
+| Kerolos Faie  | kerolosfaie@gmail.com |
+| Merit Mekhail  | meratmms@gmail.com  |
+| Mohamed Atif  | m.atef.snake@gmail.com  |
 
 
 
