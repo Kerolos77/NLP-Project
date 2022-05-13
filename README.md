@@ -26,6 +26,17 @@ https://huggingface.co/marefa-nlp/summarization-arabic-english-news
 ### Assoc. Prof. Enssaf Hussien
 ### Eng: Eman Ismaiel
 
+| Name  | Email |
+| ------------- | ------------- |
+|  Mo'az Ismail ||
+|  Karim Sayed  | ### karim_20180428@fci.helwan.edu.eg |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
