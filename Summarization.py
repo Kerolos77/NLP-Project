@@ -2,8 +2,8 @@
 # coding: utf-8
 
 # In[5]:
-
-
+from IPython import get_ipython
+from cv2 import samples
 from nltk import word_tokenize
 
 
@@ -137,6 +137,7 @@ def get_summary(text, tokenizer, model, device="cpu", num_beams=2):
             length_penalty=1.0, 
             early_stopping=True
     )
+
     
     output = tokenizer.decode(summary_ids[0], skip_special_tokens=True)
     return [ s.strip() for s in output.split("<hl>") if s.strip() != "" ]
